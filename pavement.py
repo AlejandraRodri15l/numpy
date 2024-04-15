@@ -13,7 +13,7 @@ Assumes you have git and the binaries/tarballs in installers/::
     paver write_note
 
 This automatically put the checksum into README.rst, and writes the Changelog.
-
+# HOLA SOY LUISA
 TODO
 ====
     - the script is messy, lots of global variables
